@@ -28,5 +28,7 @@ CaelumMediaPlayer\zips <-- location of resulting zip file.
 Download and install nodejs
 Install connect npm package
 
-run sudo (for port 80) node CaelumMediaServer from the folder below
-CaelumMediaPlayer\server
+Navigate to CaelumMediaPlayer\server and run the following (for port 80)
+
+    > sudo node CaelumMediaServer
+
