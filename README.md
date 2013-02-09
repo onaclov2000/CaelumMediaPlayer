@@ -46,4 +46,5 @@ Navigate to CaelumMediaPlayer\server and run the following (for port 80)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Right now run the perl script in the movies directory, redirect to movies.xml and save in the high level folder under xml
+
     > perl list_all_movies_for_roku.pl > movies.xml
