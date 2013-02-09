@@ -19,6 +19,12 @@ CaelumMediaPlayer\roku\CaelumMediaPlayer < -- Roku required files for mak/make i
 
 CaelumMediaPlayer\zips <-- location of resulting zip file.
 
+Load to device
+
+Copy xml folder to base folder pointed to by the server.
+
+I.E. Server is /home/Videos, put the xml folder in the Videos folder
+
 ++++++++++++++
 
 +++ Server +++
