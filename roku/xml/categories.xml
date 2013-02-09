@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+	  
+	<category title="Movies" description="All Movies" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png">
+		<categoryLeaf title="Movies" description="" feed="http://192.168.1.12/xml/movies.xml"/>
+	</category>
+
+	<category title="Music" description="Home Movies" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png">
+		<categoryLeaf title="Music" description="" feed="http://192.168.1.12/xml/music.xml" />
+	</category>
+
+	<category title="Television" description="Television Shows" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
+		<categoryLeaf title="Television" description="" feed="http://192.168.1.12/xml/television.xml"/>
+		
+	</category>
+<category title="Home Movies" description="TED Talks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
+		<categoryLeaf title="2012" description="" feed="http://192.168.1.12/xml/home.xml"/>
+	</category>
+ </categories>
